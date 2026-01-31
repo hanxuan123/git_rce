@@ -1,4 +1,4 @@
-[submodule "x/y"]
+[submodule "A/modules/x"]
 	path = A/modules/x
 	url = git@github.com:hanxuan123/hook.git
 	branch = main
